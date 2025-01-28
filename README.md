@@ -1,4 +1,5 @@
 # Ashta-Chamma 
+**Note:** Note: This project was a requirement for the course ENPM 703- Fundametals of AI and Deep Learning at University of Maryland, College Park and was done in collaboration with Hitesh Kyatham (hkyatham@umd.edu), Arden Matitkyan (amatikya@umd.edu) and Sumedh Chinchmalatpure(sumedhc@umd.edu)
 
 ## Description: 
 An Indian version of the popular game Ludo. 
